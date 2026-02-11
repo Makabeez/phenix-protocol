@@ -20,3 +20,6 @@ AshGuard Protocol is an AI-driven autonomous executor designed to solve the prob
    ```bash
    git clone [https://github.com/Makabeez/phenix-protocol.git](https://github.com/Makabeez/phenix-protocol.git)
    cd phenix-protocol
+
+## 🌍 Ecosystem Impact
+Monad Pulse AI provides a continuous on-chain heartbeat, ensuring parallel execution stability and providing real-time liquidity monitoring for the Monad ecosystem.
